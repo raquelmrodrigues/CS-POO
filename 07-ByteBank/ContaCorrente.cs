@@ -14,9 +14,6 @@ namespace _07_ByteBank
 
         private double _saldo = 100;
 
-        public Cliente Titular { get;  set; }
-
-
         public double Saldo
         {
             get
